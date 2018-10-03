@@ -1,5 +1,4 @@
 """
-4. Valid Palindrome
 Code it now: https://oj.leetcode.com/problems/valid-palindrome/ Difficulty: Easy, Frequency: Medium
 Question:
 Given a string, determine if it is a palindrome, considering only alphanumeric characters
