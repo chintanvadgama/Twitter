@@ -9,7 +9,7 @@ Example Questions Candidate Might Ask:
 Q: What about an empty string? Is it a valid palindrome?
 A: For the purpose of this problem, we define empty string as valid palindrome.
 """
-
+# Adding a comment
 
 def check_valid_palindrome(string):
     if string:
